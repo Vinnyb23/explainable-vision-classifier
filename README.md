@@ -191,7 +191,8 @@ pytest tests/ -v
 ## Screenshots
 
 <img width="1530" height="796" alt="image" src="https://github.com/user-attachments/assets/196cf720-6227-4499-9864-f66ed7cb1c42" />
-
+<img width="1905" height="941" alt="image" src="https://github.com/user-attachments/assets/1d235339-2e6d-4afc-b841-6dd6e61174ac" />
+<img width="1901" height="937" alt="image" src="https://github.com/user-attachments/assets/3db00e9c-2793-4cc7-a0c9-c61af218881f" />
 
 ## Part of a larger program
 
