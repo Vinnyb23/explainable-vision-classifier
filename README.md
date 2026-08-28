@@ -1,3 +1,15 @@
+---
+title: Explainable Manufacturing Defect Classifier
+emoji: 🔍
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: "1.62.0"
+python_version: "3.11"
+app_file: src/app.py
+pinned: false
+---
+
 # Explainable Manufacturing Defect Classifier
 
 **Phase 2 project** of a 6-month self-directed AI/ML continuing-education program (following the UT Austin PGP-AI certificate). This phase levels up the computer-vision skills from the coursework: transfer learning with two backbones (VGG-16 baseline vs. a fine-tuned ResNet50), tracked and compared in MLflow, plus Grad-CAM explainability so a "defective" call comes with a heatmap showing *why* — not just a black-box label. Wrapped as a Flask API and a Streamlit upload-and-explain demo.
