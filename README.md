@@ -14,7 +14,7 @@ pinned: false
 
 **Phase 2 project** of a 6-month self-directed AI/ML continuing-education program (following the UT Austin PGP-AI certificate). This phase levels up the computer-vision skills from the coursework: transfer learning with two backbones (VGG-16 baseline vs. a fine-tuned ResNet50), tracked and compared in MLflow, plus Grad-CAM explainability so a "defective" call comes with a heatmap showing *why* — not just a black-box label. Wrapped as a Flask API and a Streamlit upload-and-explain demo.
 
-> Live demo: _add your Hugging Face Spaces / Streamlit Community Cloud link here after deploying (Week 12)_
+> Live demo: (https://huggingface.co/spaces/vinnyb23/explainable-vision-classifier)
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/pytorch-transfer%20learning-EE4C2C)
