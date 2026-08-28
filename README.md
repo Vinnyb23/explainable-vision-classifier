@@ -186,7 +186,7 @@ pytest tests/ -v
 - [x] Week 9: Grad-CAM explainability
 - [x] Week 10: Flask `/predict` API
 - [x] Week 11: Streamlit upload + prediction + heatmap front end
-- [ ] Week 12: deploy a live demo (Hugging Face Spaces), add a screenshot below, push to GitHub
+- [X] Week 12: deploy a live demo (Hugging Face Spaces), add a screenshot below, push to GitHub
 
 ## Screenshots
 
