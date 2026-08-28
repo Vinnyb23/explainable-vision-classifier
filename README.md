@@ -1,6 +1,6 @@
 ---
 title: Explainable Manufacturing Defect Classifier
-emoji: 🔍
+emoji: 🏢
 colorFrom: blue
 colorTo: red
 sdk: streamlit
