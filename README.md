@@ -190,7 +190,8 @@ pytest tests/ -v
 
 ## Screenshots
 
-_Add a screenshot or GIF of the Streamlit app (upload → prediction → heatmap) here once you run it (Week 12 polish task)._
+<img width="1530" height="796" alt="image" src="https://github.com/user-attachments/assets/196cf720-6227-4499-9864-f66ed7cb1c42" />
+
 
 ## Part of a larger program
 
